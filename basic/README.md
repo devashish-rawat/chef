@@ -1,5 +1,5 @@
 # basic
-- I had enjoyed the long long int range 10^9 in cpp. BigInteger is the way to do it in Java. [Geometry.java] <br />
+- I had enjoyed the long long int range 10^9 in cpp. Try using long and BigInteger in Java. [Geometry.java] <br />
 # strings
 - The substring begins at the specified beginIndex and extends to the character at index endIndex - 1. [Lapindromes.java] <br />
 - If only one values is provided to the substring method it treats it as the begin index. [Lapindromes.java] <br />
