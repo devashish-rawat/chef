@@ -8,3 +8,5 @@
 - .nextInt() before .nextLine() should have a scan.next() in b/w as .nextInt() deos not consider \n and \n(empty string) is accepted by the .nextLine(). [Lapindromes.java] <br />
 # stack
 - Stack Operations [TransformExpression.java]
+- popping an empty stack throws an exception [TransformExpression.java]
+- pop returns the element that is popeed i.e has a return type [TransformExpression.java]
